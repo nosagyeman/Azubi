@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>First Webpage</title>
+  </head>
+  <body>
+    <h1>
+      <p>Owusu Sekyere Agyeman</p>
+    </h1>
+    <a href="">Introduction</a>
+    <a href="">Work Profile</a>
+    <a href="">Github Account</a>
+    <h3>
+      <p>About Me</p>
+    </h3>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. In illum modi
+      animi eligendi aperiam asperiores, distinctio commodi nisi, quia veritatis
+      accusantium error nam nihil fugiat dolor saepe quos voluptas vero
+      molestias nemo cumque qui obcaecati nesciunt corrupti? Ut vel soluta
+      pariatur accusantium magnam illo placeat quo cupiditate. Recusandae quas
+      quidem porro voluptatibus at, laudantium, magni ullam est, praesentium
+      quod temporibus! Consequuntur suscipit nulla ullam mollitia rem! Maiores
+      quis corporis eius veniam adipisci ullam at dolore, iusto laborum quisquam
+      consectetur nesciunt dolores quos, a voluptatibus repellendus consequuntur
+      repellat facere. Cum, voluptates? Nulla, ea ipsum voluptatem doloremque
+      quas saepe illo error culpa?
+    </p>
+  </body>
+</html>
